@@ -20,7 +20,7 @@
 </p>
 <br>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=bcyoo&theme=vue&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bcyoo&theme=github_dark&show_icons=true"/></a>
 </p>
 
 <!--
