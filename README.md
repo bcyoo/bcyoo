@@ -1,5 +1,6 @@
 
-<h3 align="center">BYUNG CHUL YOO 👋</h3>
+<h2 align="center">👋 BYUNG CHUL YOO 👋</h2>
+<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
@@ -16,6 +17,10 @@
 <p align="center">
   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bc.yoo/"/></a>&nbsp
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bcyoo91@gmail.com"/></a>
+</p>
+<br>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=bcyoo&theme=vue&show_icons=true"/></a>
 </p>
 
 <!--
