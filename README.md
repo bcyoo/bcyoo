@@ -21,6 +21,7 @@
 <h3 align="center">📫 Follow Me 📫</h3>
 <p align="center">
   <a href="https://www.instagram.com/bc.yoo/"><img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bc.yoo/"/></a>&nbsp
+  <a href="https://www.instagram.com/bc.yoo/"><img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bc.yoo/"/></a>&nbsp
   <a href="mailto:bcyoo91@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bcyoo91@gmail.com"/></a>
 </p>
 <br>
