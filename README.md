@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/bcyoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcyoo&layout=compact&theme=dracula"/>
   </a>
 </p>
 <!--
